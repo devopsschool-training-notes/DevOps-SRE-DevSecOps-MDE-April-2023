@@ -7,8 +7,12 @@
 ## Slides
 - PDF - https://devopsschool.com/slide/
 - HTML -  https://devopsschool.com/slides/
-## Support/Help - Create your post on https://www.debug.school/ and share a link in Whatsapp group
+## Support/Help 
+- Create your post on https://www.debug.school/ and share a link in Whatsapp group
 ## Commands - https://www.devopsschool.com/commands
 ## Shortcuts  - https://www.devopsschool.com/shortcuts/
 ## Cheatsheet - https://www.devopsschool.com/cheatsheets/
 ## Sample Code - https://www.devopsschool.com/blog/devopsschool-github-referenece/
+## How to submit an Assignment? - 
+- Create an assignment post at https://www.debug.school/ and share a url in whatsapp group
+
